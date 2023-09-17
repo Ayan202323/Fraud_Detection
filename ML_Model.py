@@ -7,3 +7,5 @@ def Model1():
 def Model2():
     print("Adding model 2")
 
+
+print("model 2 is performing the best")
